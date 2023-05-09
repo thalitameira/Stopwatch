@@ -50,7 +50,6 @@ namespace Stopwatch
             Thread.Sleep(2500);
 
             Start(time);
-
         }
 
 
